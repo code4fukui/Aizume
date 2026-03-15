@@ -1,4 +1,7 @@
 # Aizume
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A web-based hand tracking application using MediaPipe.
 
 ## Demo
