@@ -20,4 +20,4 @@ A web-based hand tracking application using MediaPipe.
 4. Toggle the checkboxes to enable/disable mirror mode and back camera mode.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
